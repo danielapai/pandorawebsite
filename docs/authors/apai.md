@@ -1,4 +1,2 @@
 ![Daniel Apai](Apai.jpg){ class=avatar }
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-massa, nec semper lorem quam in massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+Daniel Apai is a Professor of Astronomy and Planetary Science at The University of Arizona. His research explores the atmospheres of planets and brown dwarfs, as well as exoplanet habitability. He is leading the NASA Astrobiology team Alien Earths and the development of the Nautilus Space Observatory concept to survey a thousand worlds for atmospheric biosignatures. Daniel worked extensively on using time-resolved observations of rotating atmospheres to gain insights into their properties. He studied, along with Benjamin Rackham and Mark Giampapa, stellar contamination of transmission spectra of transiting exoplanets. In Pandora, Daniel is leading the Exoplanet Science Working Group.
