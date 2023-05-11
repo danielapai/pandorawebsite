@@ -1,4 +1,2 @@
 ![Daniel Apai](Apai.jpg){ class=avatar }
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-massa, nec semper lorem quam in massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+Dániel Apai is an astrophysicist specializing in studies of extrasolar planets with the long-term goal of identifying planetary systems capable of supporting life. He is working on the interface of planetary science and astronomy. Daniel is a Professor of Astronomy and Planetary Sciences at  The University of Arizona. Apai is currently the Interim Associate Dean for Research at the College of Science at The University of Arizona. He is also the Principal Investigator of the NASA-funded astrobiology team Alien Earths.
